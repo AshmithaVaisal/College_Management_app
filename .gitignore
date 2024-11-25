@@ -1,0 +1,19 @@
+# Backend files to ignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+venv/
+.env
+
+# Frontend files to ignore
+node_modules/
+build/
+dist/
+
+# General files to ignore
+*.log
+.DS_Store
+.vscode/
+.idea/
